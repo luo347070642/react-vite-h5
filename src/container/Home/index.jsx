@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function Index() {
-  return <div>About</div>
+  return <div>首页</div>
 }
